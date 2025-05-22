@@ -40,7 +40,7 @@ struct LoginView: View {
                     }
                 } label: {
                     HStack {
-                        Text("SIGN")
+                        Text("SIGN IN")
                             .fontWeight(.semibold)
                         Image(systemName: "arrow.right")
                     }
